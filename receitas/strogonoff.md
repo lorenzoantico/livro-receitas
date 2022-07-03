@@ -1,6 +1,6 @@
-#Strogonoff de Frango
+# Strogonoff de Frango :chicken:
 
-###Ingredientes
+### Ingredientes
 
  - 1 colher (sopa) de óleo
  - 1 cebola pequena picada
@@ -12,7 +12,6 @@
  - 2 colheres (sopa) de mostarda
  - 1 caixinha de NESTLÉ® Creme de Leite
 
-
-###Modo de preparo
+### Modo de preparo
 
  1. Em uma panela, em fogo médio, aqueça o óleo e refogue a cebola e o alho até dourarem. Adicione o frango, refogue até que esteja dourado e tempere com sal e pimenta. Misture o ketchup, a mostarda e o NESTLÉ Creme de Leite ao frango e deixe cozinhar por alguns minutos. Sirva.
